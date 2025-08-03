@@ -4,6 +4,11 @@ A real-time delivery tracking system that streams and visualizes rider movement 
 
 ---
 
+## 📺 Demo: Click on the below image to see the demo
+[![Watch the video](./rider.jpg)](https://drive.google.com/file/d/1Di-M8Z1CvoCftTJkJGBFIP22d_JgtjmQ/view?usp=sharing)
+
+---
+
 ## 🔧 Tech Stack
 
 - **Backend**: Node.js, KafkaJS, Socket.IO
